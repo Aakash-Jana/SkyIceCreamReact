@@ -1,0 +1,10 @@
+.link {
+    font-size: 20px;
+}
+/* .link:visited {
+    color: hotpink;
+} */
+.link:hover {
+    text-decoration: none;
+    color: hotpink;
+}

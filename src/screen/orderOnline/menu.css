@@ -1,0 +1,13 @@
+.cart-details {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+.child {
+    flex: 1 1;
+}
+.child img {
+    height: 3.2rem;
+}

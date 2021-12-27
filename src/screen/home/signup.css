@@ -1,0 +1,36 @@
+.wall {
+    height: 100vh;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.cleartext {
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+#wall2 {
+    background-image: url(https://source.unsplash.com/weekly?icecream) ;
+}
+/* #wall3 {
+    background-image: url(https://source.unsplash.com/weekly?waffle);
+} */
+
+.desc h1 {
+    font-family: 'Rowdies', cursive;
+    color: #E71C23;
+}
+.desc p {
+    font-family: 'Rowdies', cursive;
+    font-size: large;
+    color: #AE1438;
+}
+#createacc a{
+    color: hotpink;
+    text-decoration: none;
+}
+#createacc a:hover {
+    text-transform: uppercase;
+}
